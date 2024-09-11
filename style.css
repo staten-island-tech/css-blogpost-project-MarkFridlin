@@ -1,0 +1,19 @@
+body{
+    .Sigma1 {
+        border: 5px outset red;
+        background-color: lightblue;    
+        text-align: center;
+    }
+    
+    background-color: rgb(0, 0, 0);
+    font-family: "Protest Guerrilla", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    color: rgba(128, 97, 97, 0.984);
+}
+h1 {
+    text-align: center;
+    color: rgba(128, 97, 97, 0.984);
+
+  }
